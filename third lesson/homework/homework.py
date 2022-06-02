@@ -11,7 +11,7 @@ print(matrix1)
 
 optional_row = matrix1[1]
 optional_col = matrix1[:, 4]
-#
+
 print(optional_row)
 print(optional_col)
 
